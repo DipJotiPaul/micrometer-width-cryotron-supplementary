@@ -1,4 +1,4 @@
-clc;        clear all;      close all;          load('Fig3e_ltspice_wTron_cap_500pF.mat');
+clc;        clear;      close all;          load('Fig3e_ltspice_wTron_cap_500pF.mat');
 
 %% LTspice Traces
 figure(1);    tlo = tiledlayout(4,1,'TileSpacing','Compact');     time=sim_time*1e9;

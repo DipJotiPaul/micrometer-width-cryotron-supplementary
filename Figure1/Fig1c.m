@@ -1,4 +1,4 @@
-clc;        clear all;      close all;      root=cd;  
+clc;        clear;      close all;      root=cd;  
 
 %% 
 cd('wTron24_II');
