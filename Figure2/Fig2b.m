@@ -1,4 +1,4 @@
-clc;        clear all;      close all;          load('wTron_LED_drive.mat');
+clc;        clear;      close all;          load('wTron_LED_drive.mat');
 
 %% Plotting
 figure(1);  tlo = tiledlayout(4,1,'TileSpacing','tight');
